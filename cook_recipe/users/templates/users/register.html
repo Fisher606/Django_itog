@@ -1,0 +1,31 @@
+{% extends 'website/base.html' %}
+{% load crispy_forms_tags %}
+
+{% block title %}
+Регистрация нового автора
+{% endblock %}
+
+{% block header %}
+Регистрация нового автора
+{% endblock %}
+
+{% block content %}
+    <div style="display: flex; text-align: left;margin-top: 30px; justify-content: center;" >
+        <div class="content-section" style="width: 400px;">
+            <form method="POST">
+                {% csrf_token %}
+                <fieldset class="form-group">
+                    {{ form|crispy }}
+                </fieldset>
+                <div class="form-group">
+                    <button class="btn btn-outline-info" type="submit">Регистрация</button>
+                </div>
+            </form>
+            <div class="border-top pt-3">
+                <small class="text-muted">
+                    Уже есть аккаунт? <a class="ml-2" href="/login">Вход</a>
+                </small>
+            </div>
+        </div>
+    </div>
+{% endblock content %}

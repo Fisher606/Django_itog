@@ -1,0 +1,100 @@
+INFO 2023-10-25 14:24:55,701 create_author 24888 33436 Successfully create client: Name: 'Petya', Login: petya, Password: aab62d83d34c74189c8b7ce4cff5bcaaa0c6921cfb2b34b24a6ba74767272a89, Register date: 2023-10-25 11:24:55.697300+00:00
+INFO 2023-10-25 14:45:46,446 clear_all 34132 29520 Clear all data in Category_Receipe table!
+INFO 2023-10-25 14:45:46,446 clear_all 34132 29520 Clear all data in Category table!
+INFO 2023-10-25 14:45:46,447 clear_all 34132 29520 Clear all data in Receipe table!
+INFO 2023-10-25 14:45:46,455 clear_all 34132 29520 Clear all data in Author table!
+INFO 2023-10-25 14:46:10,303 create_author 24888 34160 Successfully create client: Name: 'Petya', Login: petya, Password: aab62d83d34c74189c8b7ce4cff5bcaaa0c6921cfb2b34b24a6ba74767272a89, Register date: 2023-10-25 11:46:10.299831+00:00
+INFO 2023-10-25 15:07:36,722 create_category 12832 15408 Successfully create category: Name: Торты
+INFO 2023-10-25 15:09:31,514 create_recipe 16740 34136 Successfully create recipe: Name: 'Торт с вишней', Description: Самый вкусный торт в мире, Roadmap: 'Берем тесто - печем торт', Required time: '50', Author: Name: 'Petya', Login: petya, Password: aab62d83d34c74189c8b7ce4cff5bcaaa0c6921cfb2b34b24a6ba74767272a89, Register date: 2023-10-25 11:46:10.299831+00:00
+INFO 2023-10-25 15:20:42,960 create_category_recipe 22324 29176 Successfully create link between category and recipe: Category: Name: Торты, Recipe:Name: 'Торт с вишней', Description: Самый вкусный торт в мире, Roadmap: 'Берем тесто - печем торт', Required time: '50', Author: Name: 'Petya', Login: petya, Password: aab62d83d34c74189c8b7ce4cff5bcaaa0c6921cfb2b34b24a6ba74767272a89, Register date: 2023-10-25 11:46:10.299831+00:00
+INFO 2023-10-25 15:32:34,951 views 15468 4440 Index page accessed! Redirect to /recipes/
+INFO 2023-10-25 15:59:02,887 views 33480 14468 Index page accessed! Redirect to /recipes/
+INFO 2023-10-25 15:59:35,929 views 12852 33372 Index page accessed! Redirect to /recipes/
+INFO 2023-10-25 16:00:36,072 views 8544 26636 Index page accessed! Redirect to /recipes/
+INFO 2023-10-25 16:01:15,184 views 19908 17176 Index page accessed! Redirect to /recipes/
+INFO 2023-10-25 16:51:55,583 views 12632 32096 Index page accessed! Redirect to /recipes/
+INFO 2023-10-25 17:18:45,522 views 23412 14600 Index page accessed! Redirect to /lastday/0/7
+INFO 2023-10-25 17:43:23,265 views 21208 17236 Index page accessed! Redirect to /lastday/0/7
+INFO 2023-10-25 17:53:59,267 views 242152 140435514734144 Index page accessed! Redirect to /lastday/0/7
+INFO 2023-10-25 18:22:54,206 views 246089 139631104628288 Index page accessed! Redirect to /lastday/0/7
+INFO 2023-10-25 19:12:50,627 create_category 253036 140288916811776 Successfully create category: Name: 'РўРѕСЂС‚С‹'
+INFO 2023-10-25 19:17:53,957 create_category 253804 140265134751744 Successfully create category: Name: 'РўРѕСЂС‚С‹'
+INFO 2023-10-25 19:18:02,876 create_recipe 253825 139644996071424 Successfully create recipe: Name: 'Р’РёС€РЅРµС‹Р№ С‚РѕСЂС‚', Description: 'РЎР°РјС‹Р№ РІРєСѓСЃРЅС‹Р№ РёР· С‚РѕСЂС‚РѕРІ', Roadmap: 'Р‘РµСЂРµРј С‚РµСЃС‚Рѕ Рё РїРµС‡РµС‡Рј С‚РѕСЂС‚', Required time: 50, Image: РІРёС€РЅРµРІС‹Р№ С‚РѕСЂС‚.png, Author: admin
+INFO 2023-10-25 19:19:36,451 create_category_recipe 254064 140554928988160 Successfully create link between category and recipe: Category_Recipe object (1)
+INFO 2023-10-25 19:44:50,358 views 257430 139866305197632 Index page accessed! Redirect to /lastday/0/7
+INFO 2023-10-25 19:46:04,126 views 257430 139866305197632 Index page accessed! Redirect to /lastday/0/7
+INFO 2023-10-25 20:41:28,840 views 257430 139866037790272 Index page accessed! Redirect to /lastday/0/7
+INFO 2023-10-26 08:25:19,383 views 34004 37892 Index page accessed! Redirect to /lastday/0/7
+INFO 2023-10-26 08:31:28,473 views 34004 32716 Index page accessed! Redirect to /lastday/0/7
+INFO 2023-10-26 08:33:52,550 views 34004 15808 Index page accessed! Redirect to /lastday/0/7
+INFO 2023-10-26 08:34:25,316 views 34004 22596 Index page accessed! Redirect to /lastday/0/7
+INFO 2023-10-26 08:42:54,961 views 38888 30836 Index page accessed! Redirect to /recipes
+INFO 2023-10-26 08:42:59,853 views 38888 30836 Index page accessed! Redirect to /recipes
+INFO 2023-10-26 09:25:27,450 views 29168 38164 Index page accessed! Redirect to /recipes
+INFO 2023-10-26 09:25:48,668 views 29168 38164 Index page accessed! Redirect to /recipes
+INFO 2023-10-26 09:35:15,526 views 29168 37436 Index page accessed! Redirect to /recipes
+INFO 2023-10-26 09:36:14,065 views 29168 38108 Index page accessed! Redirect to /recipes
+INFO 2023-10-26 09:36:31,802 views 29168 38108 Index page accessed! Redirect to /recipes
+INFO 2023-10-26 09:59:44,118 views 37796 36988 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 09:16:29,396 views 12164 23724 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 09:17:58,010 views 12164 9072 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 09:18:12,629 views 12164 9072 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 10:41:49,887 views 27248 9796 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 10:42:43,297 views 27248 2656 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 10:51:56,493 views 23980 10616 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 10:52:44,267 views 23980 27124 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 10:59:21,408 views 23980 23048 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:04:24,474 views 11436 23004 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:14:00,158 views 22244 28464 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:15:05,909 views 22244 28464 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:17:44,195 views 8888 17424 !qwer
+INFO 2023-11-09 12:18:19,815 views 26452 5812 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:18:32,934 views 26452 5812 !qwer
+INFO 2023-11-09 12:28:15,753 views 24704 792 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:28:21,944 views 24704 9712 !qwer
+INFO 2023-11-09 12:30:29,395 views 19800 15348 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:30:37,504 views 19800 15348 !!!!!!!!!!!!
+INFO 2023-11-09 12:30:37,509 views 19800 15348 !!!!!!!!!!!!
+INFO 2023-11-09 12:30:54,677 views 19800 15348 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:33:50,003 views 24024 18832 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:33:54,850 views 24024 25872 !!!!!!!!!!!!
+INFO 2023-11-09 12:33:54,853 views 24024 25872 !!!!!!!!!!!!
+INFO 2023-11-09 12:33:54,853 views 24024 25872 !valid
+INFO 2023-11-09 12:36:11,367 views 25936 1112 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:37:23,164 views 21436 23488 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:38:07,638 views 15332 28500 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:38:14,585 views 15332 28500 Successfully create recipe: Name: 'Торт ПРАГА', Description: 'Большой шоколадный торт', Roadmap: 'Обливаем все шоколадом и едим', Required time: 119, Image: , Author: ivanov
+INFO 2023-11-09 12:38:14,598 views 15332 28500 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:38:40,459 views 15332 28500 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:38:43,426 views 15332 23436 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:45:00,593 views 15332 22132 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:45:27,352 views 2656 8284 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:46:15,591 views 22708 27976 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:46:20,993 views 22708 27976 Successfully create recipe: Name: 'Торт ПРАГА', Description: 'Большой шоколадный торт', Roadmap: 'Обливаем все шоколадом и едим', Required time: 115, Image: торт прага.png, Author: ivanov
+INFO 2023-11-09 12:46:21,006 views 22708 27976 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:46:46,103 views 22708 27976 Successfully create recipe: Name: 'Торт ПРАГА', Description: 'Большой шоколадный торт', Roadmap: 'Обливаем все шоколадом и едим', Required time: 115, Image: saturn.png, Author: ivanov
+INFO 2023-11-09 12:46:46,112 views 22708 27976 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:47:40,577 views 22708 27976 Successfully create recipe: Name: 'Торт ПРАГА', Description: 'Большой шоколадный торт', Roadmap: 'Обливаем все шоколадом и едим', Required time: 115, Image: торт прага.png, Author: ivanov
+INFO 2023-11-09 12:47:40,601 views 22708 27976 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 12:47:49,495 views 22708 27976 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 13:42:25,348 views 16068 26300 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 13:47:00,882 views 25276 28584 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 13:47:04,431 views 25276 25052 Удаление!!!
+INFO 2023-11-09 13:47:44,980 views 20024 6964 Удаление!!!
+INFO 2023-11-09 13:47:44,990 views 20024 6964 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 13:52:36,944 views 4840 23140 Удаление!!! Name: 'Торт ПРАГА', Description: 'Большой шоколадный торт', Roadmap: 'Обливаем все шоколадом и едим', Required time: 115, Image: торт прага.png, Author: ivanov
+INFO 2023-11-09 13:52:36,957 views 4840 23140 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 13:55:19,119 views 15720 18188 Successfully delete recipe (id=2): Name: 'Торт ПРАГА', Description: 'Большой шоколадный торт', Roadmap: 'Обливаем все шоколадом и едим', Required time: 115, Image: торт прага.png, Author: ivanov
+INFO 2023-11-09 13:55:19,137 views 15720 18188 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 14:13:53,777 views 10928 28436 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 18:35:41,530 views 263338 140659674572352 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 18:36:05,435 views 263338 140659674572352 Index page accessed! Redirect to /recipes
+INFO 2023-11-09 18:36:31,273 views 263338 140659674572352 Index page accessed! Redirect to /recipes
+INFO 2023-11-10 08:44:57,074 views 14700 30612 Index page accessed! Redirect to /recipes
+INFO 2023-11-10 08:45:04,620 views 14700 26520 Index page accessed! Redirect to /recipes
+INFO 2023-11-10 08:45:13,086 views 14700 26520 Index page accessed! Redirect to /recipes
+INFO 2023-11-10 08:45:20,895 views 14700 26520 Index page accessed! Redirect to /recipes
+INFO 2023-11-15 12:58:39,813 views 11168 28388 Index page accessed! Redirect to /recipes
+INFO 2023-11-15 12:59:04,713 views 11168 31144 Index page accessed! Redirect to /recipes
+INFO 2023-11-15 12:59:15,227 views 11168 31144 Index page accessed! Redirect to /recipes
+INFO 2023-11-15 13:00:18,858 views 11168 31144 Index page accessed! Redirect to /recipes
